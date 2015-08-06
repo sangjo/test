@@ -1,2 +1,2 @@
 
-static char _id[] = "$Id$";
+static char _id[] = "$Format:%h %f$";
